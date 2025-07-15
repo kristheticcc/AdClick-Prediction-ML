@@ -1,12 +1,15 @@
 # 📢 Ad Click Prediction ML (Logistic Regression)
 
-This Jupyter Notebook builds a **logistic regression model** to predict whether an internet user will click on an online advertisement and also performs Data Analysis. The project uses Python libraries such as **Scikit-learn**, **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib** to explore user behavior and model ad engagement.
+This Jupyter Notebook builds a **logistic regression model** to predict whether an internet user will click on an online 
+advertisement and also performs Data Analysis.The project uses Python libraries such as **Scikit-learn**, **Pandas**, 
+**NumPy**, **Seaborn**, and **Matplotlib** to explore user behavior and model ad engagement.
 
 ---
 
 ## 📊 Dataset
 
-The dataset used in this project is publicly available on Kaggle: https://www.kaggle.com/datasets/gabrielsantello/advertisement-click-on-ad
+The dataset used in this project is publicly available on Kaggle: [Link to Data Set](https://www.kaggle.com/datasets/gabrielsantello/advertisement-click-on-ad)
+
 ---
 
 ## 🔍 Features
