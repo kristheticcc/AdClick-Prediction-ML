@@ -30,6 +30,7 @@ The dataset used in this project is publicly available on Kaggle:https://www.kag
    pip/conda install pandas numpy matplotlib seaborn scikit-learn
 Open the notebook file in Jupyter Notebook
 Run the cells to see data analysis, model training, and evaluation
+
 👨‍💻 Author
 
 Krish Makwana
